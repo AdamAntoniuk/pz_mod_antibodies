@@ -27,7 +27,8 @@ local MoodleEffects = {}
 
 MoodleEffects["Bleeding"] = -0.1
 MoodleEffects["Hypothermia"] = -0.1
-MoodleEffects["Injured"] = 0.0
+MoodleEffects["Injured"] = -0.02
+MoodleEffects["InPain"] = -0.01
 
 MoodleEffects["Thirst"] = -0.04
 MoodleEffects["Hungry"] = -0.03
